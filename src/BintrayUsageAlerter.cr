@@ -10,4 +10,6 @@ module BintrayUsageAlerter
   response = HTTP::Client.get "http://www.example.com"
 
   puts response.status_code
+
+  Cli.parse(ARGV)
 end

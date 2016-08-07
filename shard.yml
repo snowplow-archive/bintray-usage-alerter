@@ -5,3 +5,8 @@ authors:
   - Alex Dean <support@snowplowanalytics.com>
 
 license: MIT
+
+dependencies:
+  optarg:
+    github: mosop/optarg
+    version: ~> 0.2.6
