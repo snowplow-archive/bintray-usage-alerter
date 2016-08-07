@@ -1,0 +1,7 @@
+name: BintrayUsageAlerter
+version: 0.1.0
+
+authors:
+  - Alex Dean <support@snowplowanalytics.com>
+
+license: MIT

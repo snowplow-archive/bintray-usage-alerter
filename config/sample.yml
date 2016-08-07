@@ -1,0 +1,11 @@
+bintray:
+  username: ADD ME # Bintray user with 'Admin' permission
+  password: ADD ME # API key for Bintray user
+  subject:  ADD ME # The user or organization whose usage you want to track
+pagerduty:
+  service_key: ADD ME
+tolerance:
+  download:
+    megabytes: 1000 # Allow 1 Gb...
+    hours:     8    # in an 8 hour period...
+    offset:    1    # starting 1 hour ago.
